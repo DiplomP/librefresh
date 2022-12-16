@@ -1,0 +1,6 @@
+.home__wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5vh;
+	justify-content: center;
+}
